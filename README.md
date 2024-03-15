@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Keegan
-- 🌱 I’m currently a 
-- 👀 You may know me from my  LinkedIn
+- Keegan Mallaney
+- Des Moines, IA
+- LinkedIn: [here]([https://github.com/AnniesAnalytics/Python-codes](https://www.linkedin.com/in/keegan-mallaney-255458232). 
 - 📫 How to reach me: 
 
 If you'd like to see some examples of the interesting custom SQL I have written to get my data formatted properly in Tableau, you can do that [here](https://github.com/AnniesAnalytics/Nested-Sets-SQL-to-Tableau-Project). If you're more interested in the Python scripts that I have written to clean, generate, and document data at my job, you can find that [here](https://github.com/AnniesAnalytics/Python-codes). 
